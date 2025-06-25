@@ -6,7 +6,7 @@ Este repositorio contiene el material de las clases del "Seminario opción .NET"
 
 El repositorio está organizado por clases, y cada directorio de clase contiene tanto los ejercicios de la teoría como de la práctica.
 
-* **[Clase 1](Clase%201/)**: Material de la Clase 1.
+* **[Clase 1](2025/Clase%201/)**: Material de la Clase 1.
 * **[Clase 2](Clase%202/)**: Material de la Clase 2.
 * **[Clase 3](Clase%203/)**: Material de la Clase 3.
 * **[Clase 4](Clase%204/)**: Material de la Clase 4.
