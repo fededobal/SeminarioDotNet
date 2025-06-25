@@ -1,4 +1,4 @@
-# Seminario opción .NET
+# Seminario opción .NET (2025)
 
 Este repositorio contiene el material de las clases del "Seminario opción .NET".
 
