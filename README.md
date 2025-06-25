@@ -1,10 +1,11 @@
 # Seminario .NET
 
-Este repositorio contiene el material de las clases del "Seminario opción .NET" durante el **año 2025**.
+Este repositorio contiene el material de las clases del "Seminario opción .NET".
 
 ## Contenido
-
 El repositorio está organizado por clases, y cada directorio de clase contiene tanto los ejercicios de la teoría como de la práctica.
+
+### Año 2025
 
 * **[Clase 1](2025/Clase%201/)**: Material de la Clase 1.
 * **[Clase 2](2025/Clase%202/)**: Material de la Clase 2.
